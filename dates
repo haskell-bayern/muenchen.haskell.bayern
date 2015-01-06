@@ -1,0 +1,579 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>Haskell Meeting in Munich</title>
+<link rel="stylesheet" type="text/css" href="/css/format.css"/>
+<link rel="SHORTCUT ICON" type="image/x-icon" href="/css/favicon.ico"/>
+</head>
+
+<body>
+
+
+<div class="header">
+<a href="news">
+<img id="newspic" src="img/news_bg.gif"></img>
+</a>
+<img id="datespic" src="img/dates_fg.gif"></img>
+<a href="http://www.haskell.org" target="_blank">
+<img id="haskellmeeting" src="img/haskell_meeting.gif"></img>
+</a>
+</div>
+
+
+<div class="content">
+
+
+<h1>Meeting Dates</h1>
+
+The meetings begin at 19h30, German time. Usual
+venue is <a href="http://www.cafepuck.de" target="_blank">Cafe Puck</a>.
+
+<h2>Next Meeting</h2>
+
+
+<p>
+Our next meeting is scheduled on <b>Thu, 30 Oct 2014</b>, around 19h30 at
+<a href="http://www.cafepuck.de" target="_blank">Cafe Puck</a>.
+
+</p>
+
+
+<!--
+<p>
+The <em>I-will-join</em>-button will be available some days before. We will announce it on the usual mailing lists. Until then, we wish
+you a nice time!
+</p>
+-->
+
+
+<p>
+Please help us to reserve enough tables for this event!
+</p>
+
+<table width="100%">
+<tr>
+<td>Number of persons until now:</td><td align="center">16</td>
+</tr><tr>
+<td>Number of persons you registered:</td><td align="center">0</td>
+</tr><tr>
+<td>If you want to join us, please click the button:</td>
+<td align="center">
+<form action="dates2" method="post" accept-charset="ISO-8859-1">
+<input type="submit" name="register" value="I will join"/></form> 
+</tr>
+</td>
+</tr>
+</table>
+
+
+
+<h2>Upcoming Meetings</h2>
+
+<table width="100%">
+
+<!--
+<tr>
+<td width="30%" align="left" valign="top"></td>
+<td>Meeting at Cafe Puck</td>
+</tr>
+-->
+
+<tr>
+<td width="30%" align="left" valign="top">Wed, 26 Nov 2014</td>
+<td>Meeting at Cafe Puck</td>
+</tr>
+
+<tr>
+<td width="30%" align="left" valign="top">Christmas</td>
+<td>Any wishes?</td>
+</tr>
+
+</table>
+
+
+<h2>Past Meetings</h2>
+
+<table width="100%">
+
+<!--
+<tr>
+<td width="30%" align="left" valign="top">Thu, 30 May 2013</td>
+<td>Meeting at Cafe Puck</td>
+</tr>
+-->
+
+
+<tr>
+<td width="30%" align="left" valign="top">Mon, 29 Sept 2014</td>
+<td>This time, 5 persons were present. Alas, no links were sent...</td>
+</tr>
+
+<tr>
+<td width="30%" align="left" valign="top">Tue, 29 Aug 2014</td>
+<td>The join-button was clicked 16 times. Have 16 persons been there?</td>
+</tr>
+
+<tr>
+<td width="30%" align="left" valign="top">Wed, 30 July 2014</td>
+<td>Around eight persons met this time. Reserving at Max-Emanuel is quite a mess. Please send suggestions where we should go next summer. The location should also have the possibility to sit inside, if it's rainy weather.</td>
+</tr>
+
+<tr>
+<td width="30%" align="left" valign="top">Mon, 30 June 2014</td>
+<td>Many people met at Max-Emanuel-Brauerei, even if our meeting was not announced in time! Thanks to all the faithful Haskell enthusiasts from Munich!
+</td>
+</tr>
+
+<tr>
+<td width="30%" align="left" valign="top">Tue, 29 April 2014</td>
+<td>
+8 People were present. Alas, no links were sent. Nothing more is known about this meeting...
+</td>
+
+</tr>
+
+
+<tr>
+<td width="30%" align="left" valign="top">Mon, 31 March 2014</td>
+<td>18 people came! We first enjoyed Rene's interesting talk about Big Data. Thanks Rene! Afterwards, we went on to have some drinks at Cafe Puck.
+</td>
+</tr>
+
+<tr>
+<td width="30%" align="left" valign="top">Wed, 26 Feb 2014</td>
+<td>This time, 15 persons came. We had guests from all around the world, notably India and Norway! Alas, no links were sent! But maybe someone still wants to sent some?</td>
+</tr>
+
+<tr>
+<td width="30%" align="left" valign="top">Thu, 30 Jan 2014</td>
+<td>This time, we had 14 participants. Christian sent links on the <a href="http://research.microsoft.com/en-us/um/people/gonthier/4colproof.pdf" target="_blank">four colour theorem proof in Coq</a> and <a href="http://www.ams.org/notices/200811/tx081101382p.pdf" target="_blank">here</a>. Also on <a href="http://www.cs.princeton.edu/~dpd/Papers/SCG-09-invited/Planarity%20testing.pdf" target="_blank">planarity testing</a> and <a href="http://en.wikipedia.org/wiki/Kuratowski%27s_theorem" target="_blank">Kuratowski's theorem</a>. Some other subjects were <a href="http://en.wikipedia.org/wiki/Mathematics_of_Sudoku#Enumerating_Sudoku_solutions" target="_blank">enumerating Sudoku solutions</a>, <a href="http://en.wikipedia.org/wiki/Burnside%27s_lemma" target="_blank">Burnside's lemma</a> and the <a href="http://en.wikipedia.org/wiki/P%C3%B3lya_enumeration_theorem" target="_blank">Polya enumeration theorem</a>.
+
+<br/>
+
+Lars contributed some links about <a href="http://www.haskellforall.com/2012/06/you-could-have-invented-free-monads.html" target="_blank">free monads</a> and <a href="https://stackoverflow.com/q/13352205" target="_blank">here</a> and about <a href="http://www.haskellforall.com/2012/06/gadts.html" target="_blank">GADTs</a>. Here is a link to blog post on <a href="http://stackoverflow.com/questions/12961651/why-not-be-dependently-typed/13241158#13241158" target="_blank">dependently typed Haskell</a>.
+<br/>
+Finally, Julia made photo. Here it is! Thanks for all the links and photos!
+
+</td>
+</tr>
+
+</table>
+
+<img src="img/stammtisch_jan2014_1.jpg" alt="A picture from our hackathon">
+
+
+<table width="100%">
+
+<tr>
+<td width="30%" align="left" valign="top">Wed, 27 Nov 2013</td>
+<td>13 people were present. Christian sent links on the
+<a href="http://patternsinfp.wordpress.com/2011/05/05/horners-rule/" target=_blank>maximum segment sum problem</a>, based on Horner’s Rule, <a href="http://math.andrej.com/2013/08/28/the-elements-of-an-inductive-type/" target=_blank>The elements of an inductive type</a>, and about <a href="http://www.cs.uoregon.edu/research/summerschool/summer13/curriculum.html" target=_blank>Homotopy Type Theory (videos)</a> by Robert Harper, and <a href="http://www.cs.cmu.edu/~rwh/courses/hott/" target=_blank>here</a>. This was the last regular meeting for this year. However, there will be an event in December. Check out <a href="http://www.meetup.com/Munich-Lambda/events/155219402/" target=_blank>here</a>.
+</td>
+</tr>
+
+
+<tr>
+<td width="30%" align="left" valign="top">Thu, 31 Oct 2013</td>
+<td>
+This time, around 14 people were present. We had a visitor from <a href="http://www.gnu.org/software/gforth/" target=_blank>GNU Forth</a> which was really interesting!
+<br/>
+Paul sent us a link about <a href="http://evincarofautumn.blogspot.de/2012/02/why-concatenative-programming-matters.html?m=1" target=_blank>concatenative programming.</a> Armin sent links on <a href="http://teyjus.cs.umn.edu/" target=_blank>Teyjus Lambda-Prolog</a> and the <a href="http://code.google.com/p/teyjus/wiki/BuildOverview" target=_blank>Google download</a> and also a paper on <a href="https://www.csc.liv.ac.uk/research/techreports/tr2003/ulcs-03-017.ps" target=_blank>lambda-leanTAP</a>. Thanks to everyone!
+</td>
+</tr>
+
+<tr>
+<td width="30%" align="left" valign="top">Mon, 30 Sept 2013</td>
+<td>Ten persons were present. Reinhard, although not present in persona, asked us to efficiently implement <a href="http://www.cs.uiuc.edu/class/fa05/cs473ug/resources/pessimal-algorithms.pdf" target="_blank">Slow Sort</a>.</td>
+</tr>
+
+<tr>
+<td width="30%" align="left" valign="top">Mon, 26 Aug 2013</td>
+<td>Of this meeting, nothing is known to the web page's author. It was holiday for him!
+Just in time, this web page decided to go on holiday, too!
+We apologise to all who could not find appropriate informations during the last weeks.
+To stay in touch in any case, we recommend to you to subscribe to
+<a href="http://lists.fs.lmu.de/mailman/listinfo/high-order-munich" target="_blank">high-order-munich</a>.
+Looking forward to meet you in September!</td>
+</tr>
+
+
+<tr>
+<td width="30%" align="left" valign="top">Tue, 30 July 2013</td>
+<td>15 persons have present! Quite a lot for the table they gave us. <br/>
+Alex sent us a link to <a target="_blank" href="http://www.meetup.com/Munich-Lambda/">Munich-Lambda</a>, a group for functional programming enthusiasts.
+<br/>
+Michael proposed to host either an evening with talks or even a hackathon on a Saturday at his employers place at <a target="_blank" href="http://www.tngtech.com/">TNG</a>. What would you like to do? Are there any prefered dates, probably in October?
+</td>
+</tr>
+
+
+<tr>
+<td width="30%" align="left" valign="top">Wed, 26 June 2013</td>
+<td>Twelve persons were present. Alas, no links were sent. Please send interesting links!</td>
+</tr>
+
+<tr>
+<td width="30%" align="left" valign="top">Thu, 30 May 2013</td>
+<td>This time, 7 persons were present. You want to know, how the future will be like? Lars sent some interesting links on youtube: <a href="http://www.youtube.com/watch?v=kaGnBNhE2xI" target="_blank">this</a> and <a href="http://www.youtube.com/watch?v=jPFyz6qoOh0&list=PLC6C98286AE5B3086" target="_blank">this</a>.
+<br/>
+You want to proove the existence of a document? Take a look at <a href="https://www.proofofexistence.com/" target="_blank">this</a>. Thanks to Paul for the link!
+</td>
+</tr>
+
+
+<tr>
+<td width="30%" align="left" valign="top">Mon, 13 May 2013</td>
+<td>
+Henning Thielemann demonstrated his live sequencer to us. Thanks to Andreas for reserving the room. Reinhard sent a link to the OEIS data base. <a href="https://oeis.org/play.html" target="_blank">Here</a>, you can listen to music generated from integer sequences. This <a href="http://www.youtube.com/watch?v=LCWglXljevY" target="_blank">video</a> shows 1000 plots of sequences and plays music generated from <a href="http://oeis.org/A005132" target="_blank">Recaman's sequcence</a>.
+</td>
+</tr>
+
+<tr>
+<td width="30%" align="left" valign="top">Mon, 29 April 2013</td>
+<td>Thirteen persons came to our monthly meeting! Thomas sent a link to <a href="http://fossil-scm.org/" target="_blank">Fossil</a>, a distributed wiki, bug tracker, version control system and calendar that also compiles for Android. Thanks Thomas!
+
+</td>
+</tr>
+
+
+<tr>
+<td width="30%" align="left" valign="top">Mon, 26 March 2013</td>
+<td>Nine persons were present. Many links were sent. Thanks to Christian for <a href="http://www.cs.bham.ac.uk/~mhe/.talks/popl2012/escardo-popl2012.pdf" target="_blank">The topology of Seemingly impossible functional programs</a>, and many other links on the topic:
+<a href="http://math.andrej.com/2007/09/28/seemingly-impossible-functional-programs/" target="_blank">Seemingly impossible functional programs</a>, <a href="http://math.andrej.com/2011/12/06/how-to-make-the-impossible-functionals-run-even-faster/" target="_blank">How to make the “impossible” functionals run even faster</a>, <a href="http://math.andrej.com/2008/11/21/a-haskell-monad-for-infinite-search-in-finite-time/" target="_blank">A Haskell monad for infinite search in finite time</a>, <a href="http://lukepalmer.wordpress.com/2010/11/17/searchable-data-types/" target="_blank">Searchable Data Types</a>.
+</br>
+Thomas sent a link about <a href="http://www.madore.org/~david/programs/unlambda/" target="_blank">Unlambda</a> and about <a href="http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.13.3451" target="_blank">Purely Functional, Real-Time Deques with Catenation</a>
+</br>
+Thanks to all those who sent links!
+</td>
+</tr>
+
+
+<tr>
+<td width="30%" align="left" valign="top">Wed, 27 Feb 2013</td>
+<td>
+Sixteen persons were present in this meeting. Amongst them some friends from France!
+</td>
+</tr>
+
+<tr>
+<td width="30%" align="left" valign="top">Thu, 31 Jan 2013</td>
+<td>
+Fifteen persons were present at this first get-together in 2013. We had guests from Berlin, Zurich, Regensburg and Poland. We welcome anyone interested in functional programming who wants to join us!
+<br/>
+Is anyone from or around Munich joining
+<a href="http://www.haskell.org/haskellwiki/OdHac" target="_blank">OdHac</a>?
+<br/>
+Alas, no links were sent. Thus, I give you a link Markus once sent me. It's a funny video about <a href="https://www.destroyallsoftware.com/talks/wat" target="_blank">WAT</a>.
+
+</td>
+</tr>
+
+
+<tr>
+<td width="30%" align="left" valign="top">Sat, 15 Dec 2012</td>
+<td>A spontaneous meeting took place this Saturday. We had guests from a enterprise based in Poland. A total of eight persons were present.</td>
+</tr>
+
+<tr>
+<td width="30%" align="left" valign="top">Tue, 27 Nov 2012</td>
+<td>Thirteen persons were present, amongst them many newcomers.</td>
+</tr>
+
+
+<tr>
+<td width="30%" align="left" valign="top">Mon, 29 Oct 2012</td>
+<td>
+Nine persons were present. Alas, no links were sent! Please provide links to topics that have been discussed.
+This will also help newcomers to see if our monthly get-togethers could be interesting to them.
+</br>
+The end, not of the world, but of the year is near! We are waiting for suggestions of how we should spend our
+last meeting in December 2012. Should we play at skittles? Your suggestions are wellcome!
+</td>
+</tr>
+
+
+
+<tr>
+<td width="30%" align="left" valign="top">Thu, 27 Sept 2012</td>
+<td>
+This time, seven persons subscribed. Alas, no links were sent. Instead, a photo was made. Here you are! 
+Raman gives a demonstration of his embedded bare metal
+<a href="http://picolisp.com/5000/!wiki?home" target="_blank">PicoLisp</a>. Great work!
+He's always looking for supporters. So don't hesitate and ask us for making the contact.
+</br>
+Besides, this was the first birthday of our regular meetings...
+</td>
+</tr>
+</table>
+
+<img src="img/stammtisch_sept.jpg" alt="A picture from our hackathon">
+
+
+<table width="100%">
+
+<tr>
+<td width="30%" align="left" valign="top">Wed, 29 Aug 2012</td>
+<td>
+Nine persons have been present. Markus presented a brainteaser: There are twelve coins of equal weight
+except one of them that has a different weight. We don't know if it is lighter or heavier. It's just
+different! With scales you have three guesses to find out which one is the offending coin. Is there
+a solution? If yes, what is it?
+</br>
+Last time already, Raman sent a paper about 
+<a href="http://www.ccs.neu.edu/home/stamourv/papers/picobit.pdf" target="_blank">PICOBIT</a>,
+a Scheme eco-system for embedded programming, consisting of a Scheme to bytecode compiler, a small
+virtual machine and a C compiler to compile the virtual machine.
+Alas, it was to late for last times link collection!
+If you have links that you think that are interesting, you're wellcome to send them after each
+meeting.
+</td>
+</tr>
+
+<tr>
+<td width="30%" align="left" valign="top">Tue, 31 July 2012</td>
+<td>
+Eleven persons were present at this meeting. As it was very nice sitting outside
+at Max Emanuel Brauerei, we will meet theire again next time. It's summer!
+</br>
+
+This time, we left our high level functional view
+and had a hands on demonstration by Raman of an embedded C-interpreter on an ARM Cortex board.
+Nice work! Maybe, someday we could try to do something with 
+<a href="http://hackage.haskell.org/package/atom/" target="_blank">atom</a>,
+a Haskell DSL for designing hard realtime embedded software? Look also
+<a href="http://leepike.wordpress.com/2009/05/05/an-atomic-fibonacci-server-exploring-the-atom-haskell-dsl/" target="_blank">
+here</a>.
+</br>
+Another topic was GPU-Programming. Those interested in accelerating their code with CUDA-capable NVIDIA GPUs can find
+some inspiration with
+<a href="http://hackage.haskell.org/package/accelerate/" target="_blank">accelerate</a>.
+</br>
+Finally, Philipp recommended a link to 
+<a href="http://research.microsoft.com/en-us/um/people/simonpj/papers/assoc-types/fun-with-type-funs/typefun.pdf" target="_blank">Fun with type functions</a>. Thanks!
+</td>
+</tr>
+
+
+<tr>
+<td width="30%" align="left" valign="top">Thu, 28 June 2012</td>
+<td>
+Maybe due to the simultaneous football match, this time only six persons were present.
+Nevertheless, it was really nice at Max Emanuel Brauerei and we easily found a good
+table.
+<br/>
+Once again, some good links were sent. Thanks to Kai for the link to the
+<a href="http://research.microsoft.com/en-us/um/redmond/projects/z3/" target="_blank">
+Z3 Theorem Proofer</a>. He used it for his academic research to do type checking. He also
+provided a link to <a href="http://opalang.org/" target="_blank">Opa</a> which is an affectionate way
+in German to say grandfather. In fact, it's an statically typed application
+framework for JavaScript in which one can write frontend (client), backend (server), database 
+and configuration code all in the same file. The compiler then boils it down to the
+appropriate structure.
+<br/>
+For those who like it difficult, many thanks to Thomas, beause he
+he provided the link to
+<a href="http://www.lscheffer.com/malbolge.shtml" target="_blank">Malbolge</a>.
+If you are tired now from reading Malbolge code, because it's not
+function, then take a look at
+<a href="http://www.madore.org/~david/programs/unlambda/#intro" target="_blank">Unlambda</a>. 
+That should make you sleep well.
+<br/>
+Last but not least, we want to mention
+<a href="http://iba-cg.de/hal7.html" target="_blank">HaL-7</a>, a Haskell workshop in Halle.
+If you plan to go from Munich, contact <a href="impressum">me</a>.
+We go by car early on Friday, 13th of July and maybe can give you a lift.
+</td>
+</tr>
+
+
+<tr>
+<td width="30%" align="left" valign="top">Mon, 28 May 2012</td>
+<td>
+This time, we were nine persons, not all of which had a computer science background: We
+also had a typographer amongst us. We had to explain the
+ideas of functional programming from the scratch. Interestingly, this was
+quite a controversy!
+<br/>
+Other talks ranged from high level programming to low level circuitry.
+First, we want to draw your attention to 
+<a href="http://wiki.clean.cs.ru.nl/Clean" target="_blank">Clean</a>. If you
+thought about programming a purly lazy functional language other than Haskell,
+you should definitly check it out. 
+<a href="http://www.mercury.csse.unimelb.edu.au/index.html" target="_blank">Mercury</a>
+seems to draw its ideas more from the logic side of declarative programming. If you
+want to bridge the gap between functional and logic programming, maybe the
+<a href="http://www-ps.informatik.uni-kiel.de/currywiki/" target="_blank">Curry</a>
+language is for you.
+<br/>
+As to circuitry, two commercially failing processors were discussed: The
+<a href="http://en.wikipedia.org/wiki/Intel_iAPX_432" target="_blank">Intel iAPX 432</a>
+and the <a href="http://en.wikipedia.org/wiki/Intel_i860" target="_blank">Intel i860</a>.
+Last, but not least, the 
+<a href="http://dspace.mit.edu/handle/1721.1/6334" target="_blank">SCHEME-79 Chip</a>
+does not seem to have had more success.
+<br/>
+Finally, if you want to go all the way from high level to low level, you might
+want to have a look at
+<a href="http://raintown.org/lava/" target="_blank">Lava</a> which is a hardware
+description language embedded in Haskell.
+<br/>
+Thanks to Thomas and Christian for sending all these links! We hope you will
+<a href="http://picturesforsadchildren.com/post/22145925135" target="_blank">enjoy</a> them!
+<br/>
+One adminstrative point at the end: We decided to meet next time at
+<a href="http://www.max-emanuel-brauerei.de" target="_blank">Max Emanuel Brauerei</a>.
+Please be aware of this change, if you plan to join next time.
+</td>
+</tr>
+
+
+<tr>
+<td width="30%" align="left" valign="top">Sat, 12 May 2012</td>
+<td>
+Below you can see a picture of our <font color="#990000">hackathon</font> 
+which took place at LMU
+in Munich. Many thanks to Christian for organising the venue, as well
+as soft drinks and coffee. And of course, he took the picture!
+<br/>
+The event was very nice and well received. A total of 16 persons was
+present. We started with a short introduction round at 10h30. Many
+thanks to Andreas who wrote a protocol listing participants
+and their respective activities! After that,
+we heard four talks. Topics
+were <em>integer sequences, equation solver optimisation,
+Game Boy emulation with arrows</em>, and the
+<em>HyperLogLog algorithm</em>.
+<br/>
+After a sandwich break, we started hacking until 18h00, which
+was, alas, much to short! We concluded the day dining in a nearby
+restaurant. Many thanks to all who took part. For all those who
+could not take part this time, we think about renewing this
+event later this year. Also think about joining us in our
+regular get-togethers.
+</td>
+</tr>
+</table>
+
+<img src="img/hm_small.jpg" alt="A picture from our hackathon">
+
+
+<table width="100%">
+
+<tr>
+<td width="30%" align="left" valign="top">Thu, 26 April 2012</td>
+<td>
+For our April meeting, 14 people registered, and around this number also showed up.
+Talk was first on our hackathon and a resolution was take on the programme.
+<br/>
+This time again, some interesting links were sent. First, Marc sent links about the
+functional programming language
+<a href="http://impredicative.com/ur/" target="_blank">Ur</a>. Together with a special
+library, Ur seems well suitet for those wanting to create web applications. Marc also
+provided a link to <a href="http://nixos.org/" target="_blank">Nixos</a>, a
+Linux based OS, that comprises a purly functional package manager. It allows for
+upgrading a package without breakin another, rolling back a system, and multiple
+package versions on the same system.
+<br/>
+Last, but not least, Andreas provided a link to
+<a href="http://adam.chlipala.net/cpdt/" target="_blank">Certified Programming
+with Dependent Types</a>, a book by Adam Chlipala, which makes extensive use
+of the <a href="http://coq.inria.fr/" target="_blank">Coq</a> proof assistent.
+</td>
+</tr>
+
+<tr>
+<td width="30%" align="left" valign="top">Wed, 28 March 2012</td>
+<td>
+Nine persons were joining this meeting, amongst them some newcomers. When it took some time to update this page,
+this was, because a decision was taken to organise a hackathon. So, we are glad to announce, that a room
+has been found and that we can finally realise this idea!
+</td>
+</tr>
+
+<td width="30%" align="left" valign="top">Tue, 28 Feb 2012</td>
+<td>
+During this meeting, five persons were present. The main discussion topic of this meeting were proof systems. Steven
+reported from the <a href="http://wiki.portal.chalmers.se/agda/pmwiki.php" target="_blank">Agda</a>
+Implementors Workshop and explained some of the ideas of 
+<a href="http://en.wikipedia.org/wiki/Dependent_type" target="_blank">dependent types</a> in programming.
+<br/>
+Christian provided a link to a
+<a href="http://www.seas.upenn.edu/~cis500/current/sf/html/" target="_blank">Coq Tutorial</a>. If you don't know the
+<a href="http://coq.inria.fr/" target="_blank">Coq</a> proof assistant, you should certainly take a look. Finally,
+Markus send a link to a cool Haskell tool,
+namly <a href="http://lambda-the-ultimate.org/node/1178" target="_blank">Djinn</a>,
+which returns a function definition for a given type.
+<br/>
+For our next get-together, you are all invited again. Just check the page and click the
+<em>I-will-join</em>-Button some days before.
+</td>
+</tr>
+
+<tr>
+<td width="30%" align="left" valign="top">Mon, 30 Jan 2012</td>
+<td>
+Nine persons attended our first meeting in 2012. This time again, it was nice to see newcomers next to already known people. We
+want to ecourage everyone to join once in a while!
+<br/>
+Reinhard sent a link to the online encyclopedia of integer sequences (<a href="https://oeis.org" target="_blank">OEIS</a>)
+for which he is doing spare time research. Specifying <em>program:Haskell</em> in the search form will result in a list
+of sequences for which Haskell definitions are given. Look for example at 
+<a href="https://oeis.org/draft/A205666" target="_blank">A205666</a> and <a href="https://oeis.org/A065306" target="_blank">A065306</a>.
+<br/>
+Also, there was talk about <a href="http://www.willamette.edu/~fruehr/haskell/evolution.html" target="_blank">The Evolution of a
+Haskell programmer</a>. Christian provided this link as well as many other links on the mailing list. Hopefully everyone will do
+their homework!
+<br/>
+Finally, we want to call your attention to an
+<a href="http://wiki.portal.chalmers.se/agda/agda.php?n=Main.AIMXV" target="_blank">Agda Implementors Workshop</a> taking place near Munich.
+This information was provided by Andreas who organises this workshop. If you want to take part on a daily basis, this surly should still 
+be possible.
+</td>
+</tr>
+
+
+
+<tr>
+<td width="30%" align="left" valign="top">Tue, 13 Dec 2011</td>
+<td>
+This was our last meeting for 2011. Although, only nine persons participated in the exceptional doodle poll, at the end fourteen persons showed up at Cafe Puck. We were happy to have guests from far away: Berlin, Warsaw, Regensburg and Ulm... If you have the opportunity to travel to Munich, think about joining us! Meanwhile, we wish all of you a happy time.
+<br/>
+There was some interest in <a href="http://bicc-net.de/" target="_blank">BICC-Net</a>, the Bavarian Information and Communication Technology Cluster, which is part of <a href="http://www.cluster-bayern.de/" target="_blank">Cluster Offensive Bayern</a>. As functional programmers, we should surely show more presence in these networks!
+</td>
+</tr>
+
+<tr>
+<td width="30%" align="left" valign="top">Tue, 29 Nov 2011</td>
+<td>
+In this meeting, we have been eleven persons. Almost until midnight, it was a very long and joyous get-together. For the December meeting, we decided to doodle the date. Thanks to Christian for setting it up! Also, there were ideas about having a small hacking meeting one Saturday in the beginning of next year. Let's see what will become of this idea...
+</td>
+</tr>
+
+<tr>
+<td width="30%" align="left" valign="top">Wed, 26 Oct 2011</td>
+<td>
+This meeting was a success. We have been around 14 persons. Although this was our second meeting, our host from Cafe Puck assured that he had seen us already four times
+and that we never did reserve enough tables...<br/>
+Pavlo shared with us his emacs mode <a href="https://github.com/Kerestey/hasktags-emacs" target="_blank">hasktags-emacs</a> for navigating through haskell code.
+It needs some polishing, but can already be used in everyday work. Feel free to fork it, change it and post a pull request.
+</td>
+</tr>
+
+<tr>
+<td width="30%" align="left" valign="top">Thu, 29 Sept 2011</td>
+<td>First meeting at Cafe Puck, around 12 persons were present. It was decided to set up this web page and try to continue the meetings on a monthly basis.</td>
+</tr>
+</table>
+</div>
+
+<div class="footer">
+<p>
+<a href="impressum">Impressum</a>
+</p>
+</div>
+
+
+</body>

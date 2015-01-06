@@ -1,0 +1,54 @@
+
+
+body { margin:0px;
+       width:720px;
+       font-family:Helvetica;
+       background:#afd0af; }
+
+img { border:0px; }
+
+.main { padding:0px;
+        width:720px; }
+
+
+
+.header { background:#afd0af;
+          height:129px;
+	  background-image: url(../css/background.gif); }
+
+.header img#newspic { position:absolute;
+		      top:87px;
+		      left:60px; }
+
+.header img#datespic { position:absolute;
+		       top:87px;
+		       left:172px; }
+.header img#haskellmeeting { position:absolute;
+			     top:96px;
+			     left:459px; }
+
+.footer { padding:10px;
+          background:#000d5a;
+	  color:#afd0af;
+          font-size:10pt;
+          height:500px;
+	  text-align:right; }
+
+a { color:#000d5a;
+    text-decoration:none;
+    font-weight:bold;}
+
+.footer p a { color:#afd0af; }
+.footer p { margin-right:11px; }
+
+.content { min-height:300px;
+	   margin-left:70px;
+	   margin-right:11px;
+           height: auto !important;
+           padding:10px;
+           height:250px;
+	   font-size:12pt;
+	   text-align:justify;}
+
+h1 { font-size:14pt; }
+h2 { font-size:12pt; }

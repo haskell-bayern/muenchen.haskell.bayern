@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>Haskell Meeting in Munich</title>
+<link rel="stylesheet" type="text/css" href="/css/format.css"/>
+<link rel="SHORTCUT ICON" type="image/x-icon" href="/css/favicon.ico"/>
+</head>
+
+<body>
+
+
+<div class="header">
+<a href="news">
+<img id="newspic" src="img/news_bg.gif"></img>
+<a href="dates">
+<img id="datespic" src="img/dates_bg.gif"></img>
+</a>
+<a href="http://www.haskell.org" target="_blank">
+<img id="haskellmeeting" src="img/haskell_meeting.gif"></img>
+</a>
+</div>
+
+
+<div class="content">
+<h1>Impressum</h1>
+
+<p>
+The owner of this site is:
+</p>
+
+<p>
+Dr. Heinrich Hördegen<br/>
+Tulbeckstr. 38<br/>
+80689 München<br/>
+Bayern, Deutschland<br/>
+</p>
+
+<p>
+<a href="mailto:kontakt@funktional.info">kontakt@funktional.info</a><br/>
+<a href="http://www.funktional.info" target="_blank">www.funktional.info</a>
+</p>
+
+<h2>Information about this Page</h2>
+
+<p>
+The original version of this web page was build on Mon, 3 Oct 2011. All content of this page has been checked carefully for correctness. The content of linked pages has been verified and considered lawful. This page does not save any user data.
+</p>
+
+</div>
+
+<div class="footer">
+<p>
+<a href="impressum">Impressum</a>
+</p>
+</div>
+
+
+</body>
